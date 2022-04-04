@@ -1,0 +1,17 @@
+/* tres en ratlla */
+.caja {
+    width: 700px;
+    height: 800px;
+    display: flex;
+    flex-wrap: wrap;
+    margin: auto;
+  }
+  
+  .clicat {
+    font-size: 40px;
+    background-color: #23cce2;
+    width: 33.33%;
+  }
+.boton{
+      margin: auto;
+  }
