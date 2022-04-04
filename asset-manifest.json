@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/tres-en-ratlla/static/css/main.ced6b847.css",
+    "main.js": "/tres-en-ratlla/static/js/main.e88908e7.js",
+    "index.html": "/tres-en-ratlla/index.html",
+    "main.ced6b847.css.map": "/tres-en-ratlla/static/css/main.ced6b847.css.map",
+    "main.e88908e7.js.map": "/tres-en-ratlla/static/js/main.e88908e7.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.ced6b847.css",
+    "static/js/main.e88908e7.js"
+  ]
+}
